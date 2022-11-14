@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="667ebea2-1f43-4a8e-9cf3-56dec3758849" name="Changes" comment="" />
+    <list default="true" id="667ebea2-1f43-4a8e-9cf3-56dec3758849" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrdenarLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled2.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GwqjazB9tFMZSODF56DLpgDRaZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +42,26 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,9 +70,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667310130413</updated>
-      <workItem from="1667310132296" duration="1000" />
+      <workItem from="1667310132296" duration="2551000" />
+      <workItem from="1667700334191" duration="1475000" />
+      <workItem from="1667782096026" duration="1919000" />
+      <workItem from="1667794145872" duration="157000" />
+      <workItem from="1667794319781" duration="37000" />
+      <workItem from="1667794373464" duration="55000" />
+      <workItem from="1667794444185" duration="49000" />
+      <workItem from="1667794508973" duration="28000" />
+      <workItem from="1667794551262" duration="154000" />
+      <workItem from="1668205926209" duration="1419000" />
+      <workItem from="1668308122556" duration="371000" />
+      <workItem from="1668308520063" duration="173000" />
+      <workItem from="1668309011403" duration="170000" />
+      <workItem from="1668309200098" duration="174000" />
+      <workItem from="1668352406001" duration="240000" />
+      <workItem from="1668381638913" duration="3838000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -45,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="667ebea2-1f43-4a8e-9cf3-56dec3758849" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrdenarLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="667ebea2-1f43-4a8e-9cf3-56dec3758849" name="Changes" comment="new">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gato.java" beforeDir="false" afterPath="$PROJECT_DIR$/Gato.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrdenarLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrdenarLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled2/OrdenarLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled2/OrdenarLists.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -85,8 +82,23 @@
       <workItem from="1668309011403" duration="170000" />
       <workItem from="1668309200098" duration="174000" />
       <workItem from="1668352406001" duration="240000" />
-      <workItem from="1668381638913" duration="3838000" />
+      <workItem from="1668381638913" duration="6380000" />
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1668393163572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668393163572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new">
+      <created>1668393198003</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668393198003</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +114,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
